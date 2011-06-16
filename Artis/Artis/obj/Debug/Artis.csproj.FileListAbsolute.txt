@@ -1,0 +1,7 @@
+C:\Users\Jesse\Artis\Artis\Artis\bin\Artis.dll
+C:\Users\Jesse\Artis\Artis\Artis\bin\Artis.pdb
+C:\Users\Jesse\Artis\Artis\Artis\bin\EntityFramework.dll
+C:\Users\Jesse\Artis\Artis\Artis\bin\EntityFramework.xml
+C:\Users\Jesse\Artis\Artis\Artis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Artis\Artis\Artis\obj\Debug\Artis.dll
+C:\Users\Jesse\Artis\Artis\Artis\obj\Debug\Artis.pdb

@@ -1,0 +1,8 @@
+C:\Users\Jesse\Artis\Artis\Artis.Tests\bin\Debug\Artis.Tests.dll.config
+C:\Users\Jesse\Artis\Artis\Artis.Tests\bin\Debug\Artis.Tests.dll
+C:\Users\Jesse\Artis\Artis\Artis.Tests\bin\Debug\Artis.Tests.pdb
+C:\Users\Jesse\Artis\Artis\Artis.Tests\bin\Debug\Artis.dll
+C:\Users\Jesse\Artis\Artis\Artis.Tests\bin\Debug\Artis.pdb
+C:\Users\Jesse\Artis\Artis\Artis.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesse\Artis\Artis\Artis.Tests\obj\Debug\Artis.Tests.dll
+C:\Users\Jesse\Artis\Artis\Artis.Tests\obj\Debug\Artis.Tests.pdb
